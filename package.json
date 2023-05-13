@@ -1,0 +1,14 @@
+{
+    "author":"sreekar",
+    "name":"nodejssreekar",
+    "main":"information",
+    "version":"1.1.0",
+    "description":"various mathematical operations",
+    "dependencies": {},
+    "engines": {"node":"*"},
+    "repository": {
+        "type":"git",
+        "url":"https://github.com/tvps-sreekar/nodejs"
+    },
+    "keywords":["nodejs","calculator","mathematicaloperations"]
+}
